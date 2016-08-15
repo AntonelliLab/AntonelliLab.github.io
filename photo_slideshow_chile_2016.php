@@ -142,9 +142,6 @@ Carl Skottsbergs gata 22B - P.O. Box 461 - SE 405 30 - Göteborg - SWEDEN</p>
 
 <p>Contact: Alexandre Antonelli - E-mail: <a href="mailto:&#97;&#108;&#101;&#120;&#97;&#110;&#100;&#114;&#101;&#46;&#97;&#110;&#116;&#111;&#110;&#101;&#108;&#108;&#105;&#64;&#103;&#117;&#46;&#115;&#101;">&#97;&#108;&#101;&#120;&#97;&#110;&#100;&#114;&#101;&#46;&#97;&#110;&#116;&#111;&#110;&#101;&#108;&#108;&#105;&#64;&#103;&#117;&#46;&#115;&#101;</a> - Phone: +46 703 989570</p>
 
-<div id="darlingsniper">
-<p>Site by <a href="http://www.arken25.se" target="_blank">Arken25.se</a></p>
-</div>
 
 </div><!--END foot-->
 </div><!--END footer-->

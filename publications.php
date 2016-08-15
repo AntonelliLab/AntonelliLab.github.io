@@ -1847,12 +1847,6 @@ Carl Skottsbergs gata 22B - P.O. Box 461 - SE 405 30 - Göteborg - SWEDEN</p>
 
 
 
-<div id="darlingsniper">
-
-<p>Site by <a href="http://www.arken25.se" target="_blank">Arken25.se</a></p>
-
-</div>
-
 
 
 </div><!--END foot-->
