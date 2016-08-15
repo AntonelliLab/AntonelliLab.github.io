@@ -126,26 +126,6 @@
 <b>Natural history and living collections.</b> Our department hosts the <a href="http://http://bioenv.gu.se/english/research/research-resources/Herbarium/%3FlanguageId=100001%26disableRedirect=true%26returnUrl=http%253A%252F%252Fbioenv.gu.se%252Fforskning%252Fforskningsresurser%252Fherbarium%252F">Herbarium GB</a>, housing c. 1 million dried plant specimens. A large proportion of these collections were made in South America, through the work of dozens of researchers and students, often in connection with the long-standing <a href="http://http://www2.dpes.gu.se/project/ecuador/">Flora of Ecuador</a> project coordinated from our department. <a href="http://www.gotbot.se">Gothenburg botanical garden</a> is one of the largest botanical gardens in Europe with an area of 175 hectares, where about 15000 species and cultivars are grown and of free access to researchers. The <a href="http://http://www.goteborg.com/en/goteborgs-naturhistoriska-museum/">Natural History Museum in Gothenburg</a> and the <a href="http://http://www.nrm.se/">Swedish Museum of Natural History</a> in Stockholm house together tens of millions of animal and plant specimens that are often used by members in our group for taxonomic purposes and as genetic resources. We also have extensive collaboration with many other natural history and living collections around Europe and worldwide. </p>
 <br>
 <div class="hr_4"></div>
-<div class="header_4">INTERESTED IN JOINING OUR GROUP?</div> 
-<br>
-<br>
-<p>We are always looking for highly motivated students and researchers at any career stage to spend time at our lab and interact with us. However, we can only offer a limited number of openings due to space and time constraints. We will therefore prioritize those people and projects that we judge have the <i>highest potential for scientific impact</i> and/or that best <i>fit or complement our group's skills, activities and interests</i>. Other aspects that we will take into consideration are the applicant's <i>communication skills</i> (English is our working language), <i>CV</i>, <i>independence of working</i>, and <i>own funding</i>. </p>
-
-<p>A pre-condition for joining the group is that you are aware of, and fully agree with, the way we work and the commitment we expect from all members of the lab. You will therefore be asked to read and sign our <a href="pdf/Working_agreement.doc"<i>working agreement</i></a>. </p>
-
-<p>If you feel qualified and agree with the above, do get in touch to discuss potential collaborations and a possible affiliation to our group! You will be asked to provide a <a href="https://docs.google.com/document/d/1rFbFpJzvZ0X4YTsahKM_0Txsi5zOqxQKPj2aC_KY9Ho/edit?usp=sharing"<i>one-page outline</i></a> of your main research questions and how you plan to develop them. Please send this together with your CV to <a href="mailto:alexandre.antonelli@bioenv.gu.se">Alexandre Antonelli</a>.</p>
-
-<div class="hr_4"></div>
-<div class="header_4">*** FULLY FUNDED POSITIONS CURRENTLY AVAILABLE ***</div> 
-<br>
-<br>
-
-<p>Here we list any current openings to our lab. All openings are advertised in <a href="http://life.mcmaster.ca/evoldir.html">EvolDir</a> and sent out to our <a href="https://twitter.com/antonelli_lab">Twitter followers</a>, among other media. 
- </p>
-
-<p><strong>There are no open positions at the moment. (The Assistant Professorships and PhD positions advertised earlier this year are currently under evaluation)</strong> 
-
-<div class="hr_4"></div>
 <div class="header_4">VOICES FROM THE LAB</div> 
 <br>
 <br>
