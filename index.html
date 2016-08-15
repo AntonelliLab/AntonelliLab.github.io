@@ -61,6 +61,7 @@ function MM_swapImage() { //v3.0
     <li><a href="publications.php">Publications</a></li>
     <li><a href="photos.php">Photos</a></li>
     <li><a href="resources.php">Resources</a></li>
+	<li><a href="join.php">About</a></li>
     <li><a href="join.php">Join us</a></li>            
     <li><a href="wiki">Member's Wiki</a></li>
 </ul>
